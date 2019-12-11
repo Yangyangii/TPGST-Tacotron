@@ -32,5 +32,5 @@
 
 
 ## Notes
-- I think it is not different much on KSS dataset.
+- I think the difference between baseline Tacotron and TPGST is small on KSS dataset.
 - I will be doing more experiminets soon.
